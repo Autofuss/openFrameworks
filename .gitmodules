@@ -1,3 +1,30 @@
 [submodule "apps/projectGenerator/projectGeneratorSimple"]
 	path = apps/projectGenerator/projectGeneratorSimple
 	url = https://github.com/ofZach/projectGeneratorSimple.git
+[submodule "addons/ofxCsv"]
+	path = addons/ofxCsv
+	url = https://github.com/paulvollmer/ofxCsv.git
+[submodule "addons/ofxKinectV2"]
+	path = addons/ofxKinectV2
+	url = https://github.com/ofTheo/ofxKinectV2.git
+[submodule "addons/ofxLiquidFun"]
+	path = addons/ofxLiquidFun
+	url = https://github.com/tado/ofxLiquidFun.git
+[submodule "addons/ofxNI2"]
+	path = addons/ofxNI2
+	url = https://github.com/satoruhiga/ofxNI2.git
+[submodule "addons/ofxStreamer"]
+	path = addons/ofxStreamer
+	url = https://github.com/HalfdanJ/ofxStreamer.git
+[submodule "addons/ofxTuio"]
+	path = addons/ofxTuio
+	url = https://github.com/patriciogonzalezvivo/ofxTuio.git
+[submodule "addons/ofxUI"]
+	path = addons/ofxUI
+	url = https://github.com/rezaali/ofxUI.git
+[submodule "addons/ofxUVC"]
+	path = addons/ofxUVC
+	url = https://github.com/atduskgreg/ofxUVC.git
+[submodule "addons/ofxYAML"]
+	path = addons/ofxYAML
+	url = https://github.com/satoruhiga/ofxYAML.git
